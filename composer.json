@@ -1,0 +1,21 @@
+{
+    "name": "alexeyyashin/seed-faker",
+    "description": "Seeded fake data generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlexeyYashin\\SeedFaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Yashin",
+            "email": "me@alexey-yashin.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {}
+}
